@@ -2,7 +2,7 @@
 
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='labyrinth.conf'
-CONFIGFOLDER='/root/.Labyrinth'
+CONFIGFOLDER='/root/.labyrinth'
 COIN_DAEMON='labyrinthd'
 COIN_CLI='labyrinthd'
 COIN_PATH='/usr/local/bin/'
