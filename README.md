@@ -43,18 +43,18 @@ Alias Address Privkey TxHash Output_index
 ## Usage:
 
 ```
-labyrinthd-cli mnsync status
-labyrinthd-cli getinfo
-labyrinthd-cli masternode status
+labyrinthd mnsync status
+labyrinthd getinfo
+labyrinthd masternode status
 ```
 
 Also, if you want to check/start/stop **labyrinth** , run one of the following commands as **root**:
 
 ```
-systemctl status labyrinthd #To check the service is running.
-systemctl start labyrinthd #To start labyrinth service.
-systemctl stop labyrinthd #To stop labyrinth service.
-systemctl is-enabled labyrinthd #To check whether or not the labyrinth service is enabled on boot or not.
+systemctl status labyrinth #To check the service is running.
+systemctl start labyrinth #To start labyrinth service.
+systemctl stop labyrinth #To stop labyrinth service.
+systemctl is-enabled labyrinth #To check whether or not the labyrinth service is enabled on boot or not.
 ```
 
 ***
