@@ -58,3 +58,4 @@ systemctl is-enabled labyrinth #To check whether or not the labyrinth service is
 ```
 
 ***
+Credit to Zoldur for his amazing shell base.
